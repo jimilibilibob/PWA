@@ -1,0 +1,16 @@
+{
+	"short_name" : "",
+    "name" : "",
+    "orientation" : "",
+    "theme_color" : "",
+    "background_color" : "",
+    "display" : "",
+	"start_url": "",
+    "lang" : "",
+	"icons": [
+		{
+		  "src": "",
+		  "sizes": ""
+		}
+	]
+}
